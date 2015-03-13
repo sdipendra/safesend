@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="App6.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/numbers (2).jpg"/>
+        </Grid.Background>
+        <Button x:Name="cipher" Content="Cipher" HorizontalAlignment="Left" Margin="36,308,0,0" VerticalAlignment="Top" Click="cipher_Click" Background="Black"/>
+        <Button x:Name="decipher" Content="Decipher" HorizontalAlignment="Left" Margin="247,308,0,0" VerticalAlignment="Top" Click="decipher_Click" Background="Black"/>
+        <TextBox x:Name="original" HorizontalAlignment="Left" Margin="36,88,0,0" TextWrapping="Wrap" Text="Original" VerticalAlignment="Top" Width="320" Height="100" IsReadOnly="False" GotFocus="original_gotfocus" Foreground="#FF24D64C" BorderBrush="Black" TextChanged="original_TextChanged" Background="Black" FontSize="24"/>
+        <TextBox x:Name="ciphered" HorizontalAlignment="Left" Margin="36,399,0,0" TextWrapping="Wrap" Text="Ciphered" VerticalAlignment="Top" Width="320" Height="100" IsReadOnly="False" GotFocus="ciphered_gotfocus" Foreground="#FF24D64C" TextChanged="ciphered_TextChanged" BorderBrush="Black" Background="Black" FontSize="24"/>
+        <TextBox x:Name="key" HorizontalAlignment="Left" Margin="102,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Key" Width="197" IsReadOnly="False" Foreground="#FF24D64C" GotFocus="key_gotfocus" TextAlignment="Center" TextChanged="key_TextChanged" BorderBrush="Black" Background="Black" FontSize="24"/>
+        <Button x:Name="send" Content="Send as Text Message" HorizontalAlignment="Left" Margin="68,537,0,0" VerticalAlignment="Top" Click="send_Click" Background="Black" Height="71" Width="258"/>
+        <Button x:Name="Weak" Content="Weak" HorizontalAlignment="Left" Margin="36,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.149,0.801" Background="#FF000349" Click="Weak_Click"/>
+        <Button x:Name="Strong" Content="Strong" HorizontalAlignment="Left" Margin="247,13,0,0" VerticalAlignment="Top" Background="#FF000349" Click="Strong_Click"/>
+
+    </Grid>
+</Page>

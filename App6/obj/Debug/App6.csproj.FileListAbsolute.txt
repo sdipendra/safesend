@@ -1,0 +1,636 @@
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\App.xbf
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\MainPage.xbf
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\App6.xr.xml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\App6.exe
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\App6.pdb
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\resources.pri
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\AppxManifest.xml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\bin\Debug\App6.build.appxrecipe
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App.g.i.cs
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App.g.cs
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\MainPage.g.i.cs
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\MainPage.g.cs
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App.xaml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App.xbf
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\XamlSaveStateFile.xml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\MainPage.xaml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\MainPage.xbf
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App6.exe
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\App6.pdb
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\priconfig.xml
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\priconfig.xml.intermediate
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\layout.resfiles
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\layout.resfiles.intermediate
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\resources.resfiles
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\resources.resfiles.intermediate
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\pri.resfiles
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\pri.resfiles.intermediate
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\qualifiers.txt
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\qualifiers.txt.intermediate
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\dipendra_singh\documents\visual studio 2013\Projects\App6\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\App6\App6\bin\Debug\App.xbf
+G:\code.fun.do\App6\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\App6\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\App6\App6\bin\Debug\App6.exe
+G:\code.fun.do\App6\App6\bin\Debug\App6.pdb
+G:\code.fun.do\App6\App6\bin\Debug\resources.pri
+G:\code.fun.do\App6\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\App6\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\App6\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\App6\App6\obj\Debug\App.g.cs
+G:\code.fun.do\App6\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\App6\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\App6\App6\obj\Debug\App.xaml
+G:\code.fun.do\App6\App6\obj\Debug\App.xbf
+G:\code.fun.do\App6\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\App6\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\App6\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\App6\App6\obj\Debug\App6.exe
+G:\code.fun.do\App6\App6\obj\Debug\App6.pdb
+G:\code.fun.do\App6\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\App6\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\App6\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\App6\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\App6\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\App6\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\App6\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\App6\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\App6\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\App6\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\App6\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\App6\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\App6\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\App6\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\App6\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\App6\App6\obj\Debug\strong.xaml
+G:\code.fun.do\App6\App6\obj\Debug\weak.xaml
+G:\code.fun.do\App6\App6\obj\Debug\strong.xbf
+G:\code.fun.do\App6\App6\obj\Debug\weak.xbf
+G:\code.fun.do\App7\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\App7\App6\obj\Debug\App.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\App7\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\App7\App6\obj\Debug\send.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\App7\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\App7\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\App7\App6\obj\Debug\App.xaml
+G:\code.fun.do\App7\App6\obj\Debug\send.xaml
+G:\code.fun.do\App7\App6\obj\Debug\strong.xaml
+G:\code.fun.do\App7\App6\obj\Debug\weak.xaml
+G:\code.fun.do\App7\App6\obj\Debug\App.xbf
+G:\code.fun.do\App7\App6\obj\Debug\send.xbf
+G:\code.fun.do\App7\App6\obj\Debug\strong.xbf
+G:\code.fun.do\App7\App6\obj\Debug\weak.xbf
+G:\code.fun.do\App7\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\App7\App6\obj\Debug\App6.exe
+G:\code.fun.do\App7\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\App7\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\App7\App6\bin\Debug\App.xbf
+G:\code.fun.do\App7\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\App7\App6\bin\Debug\send.xbf
+G:\code.fun.do\App7\App6\bin\Debug\strong.xbf
+G:\code.fun.do\App7\App6\bin\Debug\weak.xbf
+G:\code.fun.do\App7\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\App7\App6\bin\Debug\App6.exe
+G:\code.fun.do\App7\App6\bin\Debug\App6.pdb
+G:\code.fun.do\App7\App6\bin\Debug\resources.pri
+G:\code.fun.do\App7\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\App7\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\App7\App6\obj\Debug\App6.pdb
+G:\code.fun.do\App7\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\App7\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\App7\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\App7\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\App7\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\App7\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\App7\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\App7\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\App7\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\App7\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\App7\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\App7\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\safe_send\App6\bin\Debug\App.xbf
+G:\code.fun.do\safe_send\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\safe_send\App6\bin\Debug\send.xbf
+G:\code.fun.do\safe_send\App6\bin\Debug\strong.xbf
+G:\code.fun.do\safe_send\App6\bin\Debug\weak.xbf
+G:\code.fun.do\safe_send\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\safe_send\App6\bin\Debug\App6.exe
+G:\code.fun.do\safe_send\App6\bin\Debug\App6.pdb
+G:\code.fun.do\safe_send\App6\bin\Debug\resources.pri
+G:\code.fun.do\safe_send\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\safe_send\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\safe_send\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\App.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\send.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\safe_send\App6\obj\Debug\App.xaml
+G:\code.fun.do\safe_send\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\safe_send\App6\obj\Debug\send.xaml
+G:\code.fun.do\safe_send\App6\obj\Debug\strong.xaml
+G:\code.fun.do\safe_send\App6\obj\Debug\weak.xaml
+G:\code.fun.do\safe_send\App6\obj\Debug\App.xbf
+G:\code.fun.do\safe_send\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\safe_send\App6\obj\Debug\send.xbf
+G:\code.fun.do\safe_send\App6\obj\Debug\strong.xbf
+G:\code.fun.do\safe_send\App6\obj\Debug\weak.xbf
+G:\code.fun.do\safe_send\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\safe_send\App6\obj\Debug\App6.exe
+G:\code.fun.do\safe_send\App6\obj\Debug\App6.pdb
+G:\code.fun.do\safe_send\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\safe_send\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\safe_send\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\safe_send\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\safe_send\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\safe_send\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\safe_send\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\safe_send\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\safe_send\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\safe_send\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\safe_send\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\safe_send\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\check\App6\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\App.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\send.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\check\App6\App6\obj\Debug\App.xaml
+G:\code.fun.do\check\App6\App6\obj\Debug\App.xbf
+G:\code.fun.do\check\App6\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\check\App6\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\check\App6\App6\obj\Debug\send.xaml
+G:\code.fun.do\check\App6\App6\obj\Debug\strong.xaml
+G:\code.fun.do\check\App6\App6\obj\Debug\weak.xaml
+G:\code.fun.do\check\App6\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\check\App6\App6\obj\Debug\send.xbf
+G:\code.fun.do\check\App6\App6\obj\Debug\strong.xbf
+G:\code.fun.do\check\App6\App6\obj\Debug\weak.xbf
+G:\code.fun.do\check\App6\App6\obj\Debug\App6.exe
+G:\code.fun.do\check\App6\App6\bin\Debug\App.xbf
+G:\code.fun.do\check\App6\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\check\App6\App6\bin\Debug\send.xbf
+G:\code.fun.do\check\App6\App6\bin\Debug\strong.xbf
+G:\code.fun.do\check\App6\App6\bin\Debug\weak.xbf
+G:\code.fun.do\check\App6\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\check\App6\App6\bin\Debug\App6.exe
+G:\code.fun.do\check\App6\App6\bin\Debug\App6.pdb
+G:\code.fun.do\check\App6\App6\bin\Debug\resources.pri
+G:\code.fun.do\check\App6\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\check\App6\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\check\App6\App6\obj\Debug\App6.pdb
+G:\code.fun.do\check\App6\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\check\App6\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\check\App6\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\check\App6\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\check\App6\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\check\App6\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\check\App6\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\check\App6\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\check\App6\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\check\App6\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\check\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\check\App6\App6\obj\Debug\ProjectArchitectures.txt
+H:\check\App6\App6\bin\Debug\App.xbf
+H:\check\App6\App6\bin\Debug\MainPage.xbf
+H:\check\App6\App6\bin\Debug\send.xbf
+H:\check\App6\App6\bin\Debug\strong.xbf
+H:\check\App6\App6\bin\Debug\weak.xbf
+H:\check\App6\App6\bin\Debug\App6.xr.xml
+H:\check\App6\App6\bin\Debug\App6.exe
+H:\check\App6\App6\bin\Debug\App6.pdb
+H:\check\App6\App6\bin\Debug\resources.pri
+H:\check\App6\App6\bin\Debug\AppxManifest.xml
+H:\check\App6\App6\bin\Debug\App6.build.appxrecipe
+H:\check\App6\App6\obj\Debug\App.g.i.cs
+H:\check\App6\App6\obj\Debug\App.g.cs
+H:\check\App6\App6\obj\Debug\MainPage.g.i.cs
+H:\check\App6\App6\obj\Debug\MainPage.g.cs
+H:\check\App6\App6\obj\Debug\send.g.i.cs
+H:\check\App6\App6\obj\Debug\send.g.cs
+H:\check\App6\App6\obj\Debug\strong.g.i.cs
+H:\check\App6\App6\obj\Debug\strong.g.cs
+H:\check\App6\App6\obj\Debug\weak.g.i.cs
+H:\check\App6\App6\obj\Debug\weak.g.cs
+H:\check\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+H:\check\App6\App6\obj\Debug\App.xaml
+H:\check\App6\App6\obj\Debug\MainPage.xaml
+H:\check\App6\App6\obj\Debug\send.xaml
+H:\check\App6\App6\obj\Debug\strong.xaml
+H:\check\App6\App6\obj\Debug\weak.xaml
+H:\check\App6\App6\obj\Debug\App.xbf
+H:\check\App6\App6\obj\Debug\MainPage.xbf
+H:\check\App6\App6\obj\Debug\send.xbf
+H:\check\App6\App6\obj\Debug\strong.xbf
+H:\check\App6\App6\obj\Debug\weak.xbf
+H:\check\App6\App6\obj\Debug\XamlSaveStateFile.xml
+H:\check\App6\App6\obj\Debug\App6.exe
+H:\check\App6\App6\obj\Debug\App6.pdb
+H:\check\App6\App6\obj\Debug\priconfig.xml
+H:\check\App6\App6\obj\Debug\priconfig.xml.intermediate
+H:\check\App6\App6\obj\Debug\layout.resfiles
+H:\check\App6\App6\obj\Debug\layout.resfiles.intermediate
+H:\check\App6\App6\obj\Debug\resources.resfiles
+H:\check\App6\App6\obj\Debug\resources.resfiles.intermediate
+H:\check\App6\App6\obj\Debug\pri.resfiles
+H:\check\App6\App6\obj\Debug\pri.resfiles.intermediate
+H:\check\App6\App6\obj\Debug\qualifiers.txt
+H:\check\App6\App6\obj\Debug\qualifiers.txt.intermediate
+H:\check\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\check\App6\App6\obj\Debug\ProjectArchitectures.txt
+E:\final\App6\App6\bin\Debug\App.xbf
+E:\final\App6\App6\bin\Debug\MainPage.xbf
+E:\final\App6\App6\bin\Debug\send.xbf
+E:\final\App6\App6\bin\Debug\strong.xbf
+E:\final\App6\App6\bin\Debug\weak.xbf
+E:\final\App6\App6\bin\Debug\App6.xr.xml
+E:\final\App6\App6\bin\Debug\App6.exe
+E:\final\App6\App6\bin\Debug\App6.pdb
+E:\final\App6\App6\bin\Debug\resources.pri
+E:\final\App6\App6\bin\Debug\AppxManifest.xml
+E:\final\App6\App6\bin\Debug\App6.build.appxrecipe
+E:\final\App6\App6\obj\Debug\App.g.i.cs
+E:\final\App6\App6\obj\Debug\App.g.cs
+E:\final\App6\App6\obj\Debug\MainPage.g.i.cs
+E:\final\App6\App6\obj\Debug\MainPage.g.cs
+E:\final\App6\App6\obj\Debug\send.g.i.cs
+E:\final\App6\App6\obj\Debug\send.g.cs
+E:\final\App6\App6\obj\Debug\strong.g.i.cs
+E:\final\App6\App6\obj\Debug\strong.g.cs
+E:\final\App6\App6\obj\Debug\weak.g.i.cs
+E:\final\App6\App6\obj\Debug\weak.g.cs
+E:\final\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+E:\final\App6\App6\obj\Debug\App.xaml
+E:\final\App6\App6\obj\Debug\MainPage.xaml
+E:\final\App6\App6\obj\Debug\send.xaml
+E:\final\App6\App6\obj\Debug\strong.xaml
+E:\final\App6\App6\obj\Debug\weak.xaml
+E:\final\App6\App6\obj\Debug\App.xbf
+E:\final\App6\App6\obj\Debug\MainPage.xbf
+E:\final\App6\App6\obj\Debug\send.xbf
+E:\final\App6\App6\obj\Debug\strong.xbf
+E:\final\App6\App6\obj\Debug\weak.xbf
+E:\final\App6\App6\obj\Debug\XamlSaveStateFile.xml
+E:\final\App6\App6\obj\Debug\App6.exe
+E:\final\App6\App6\obj\Debug\App6.pdb
+E:\final\App6\App6\obj\Debug\priconfig.xml
+E:\final\App6\App6\obj\Debug\priconfig.xml.intermediate
+E:\final\App6\App6\obj\Debug\layout.resfiles
+E:\final\App6\App6\obj\Debug\layout.resfiles.intermediate
+E:\final\App6\App6\obj\Debug\resources.resfiles
+E:\final\App6\App6\obj\Debug\resources.resfiles.intermediate
+E:\final\App6\App6\obj\Debug\pri.resfiles
+E:\final\App6\App6\obj\Debug\pri.resfiles.intermediate
+E:\final\App6\App6\obj\Debug\qualifiers.txt
+E:\final\App6\App6\obj\Debug\qualifiers.txt.intermediate
+E:\final\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\final\App6\App6\obj\Debug\ProjectArchitectures.txt
+D:\final\App6\App6\bin\Debug\App.xbf
+D:\final\App6\App6\bin\Debug\MainPage.xbf
+D:\final\App6\App6\bin\Debug\send.xbf
+D:\final\App6\App6\bin\Debug\strong.xbf
+D:\final\App6\App6\bin\Debug\weak.xbf
+D:\final\App6\App6\bin\Debug\App6.xr.xml
+D:\final\App6\App6\bin\Debug\App6.exe
+D:\final\App6\App6\bin\Debug\App6.pdb
+D:\final\App6\App6\bin\Debug\resources.pri
+D:\final\App6\App6\bin\Debug\AppxManifest.xml
+D:\final\App6\App6\bin\Debug\App6.build.appxrecipe
+D:\final\App6\App6\obj\Debug\App.g.i.cs
+D:\final\App6\App6\obj\Debug\App.g.cs
+D:\final\App6\App6\obj\Debug\MainPage.g.i.cs
+D:\final\App6\App6\obj\Debug\MainPage.g.cs
+D:\final\App6\App6\obj\Debug\send.g.i.cs
+D:\final\App6\App6\obj\Debug\send.g.cs
+D:\final\App6\App6\obj\Debug\strong.g.i.cs
+D:\final\App6\App6\obj\Debug\strong.g.cs
+D:\final\App6\App6\obj\Debug\weak.g.i.cs
+D:\final\App6\App6\obj\Debug\weak.g.cs
+D:\final\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+D:\final\App6\App6\obj\Debug\App.xaml
+D:\final\App6\App6\obj\Debug\MainPage.xaml
+D:\final\App6\App6\obj\Debug\send.xaml
+D:\final\App6\App6\obj\Debug\strong.xaml
+D:\final\App6\App6\obj\Debug\weak.xaml
+D:\final\App6\App6\obj\Debug\App.xbf
+D:\final\App6\App6\obj\Debug\MainPage.xbf
+D:\final\App6\App6\obj\Debug\send.xbf
+D:\final\App6\App6\obj\Debug\strong.xbf
+D:\final\App6\App6\obj\Debug\weak.xbf
+D:\final\App6\App6\obj\Debug\XamlSaveStateFile.xml
+D:\final\App6\App6\obj\Debug\App6.exe
+D:\final\App6\App6\obj\Debug\App6.pdb
+D:\final\App6\App6\obj\Debug\priconfig.xml
+D:\final\App6\App6\obj\Debug\priconfig.xml.intermediate
+D:\final\App6\App6\obj\Debug\layout.resfiles
+D:\final\App6\App6\obj\Debug\layout.resfiles.intermediate
+D:\final\App6\App6\obj\Debug\resources.resfiles
+D:\final\App6\App6\obj\Debug\resources.resfiles.intermediate
+D:\final\App6\App6\obj\Debug\pri.resfiles
+D:\final\App6\App6\obj\Debug\pri.resfiles.intermediate
+D:\final\App6\App6\obj\Debug\qualifiers.txt
+D:\final\App6\App6\obj\Debug\qualifiers.txt.intermediate
+D:\final\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\final\App6\App6\obj\Debug\ProjectArchitectures.txt
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\App.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\MainPage.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\send.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\strong.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\weak.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\App6.xr.xml
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\App6.exe
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\App6.pdb
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\resources.pri
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\AppxManifest.xml
+C:\Users\Prasang\Desktop\final\App6\App6\bin\Debug\App6.build.appxrecipe
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App.g.i.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\MainPage.g.i.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\MainPage.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\send.g.i.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\send.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\strong.g.i.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\strong.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\weak.g.i.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\weak.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App.xaml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\MainPage.xaml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\send.xaml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\strong.xaml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\weak.xaml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\MainPage.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\send.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\strong.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\weak.xbf
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App6.exe
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\App6.pdb
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\priconfig.xml
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\priconfig.xml.intermediate
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\layout.resfiles
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\layout.resfiles.intermediate
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\resources.resfiles
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\resources.resfiles.intermediate
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\pri.resfiles
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\pri.resfiles.intermediate
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\qualifiers.txt
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Prasang\Desktop\final\App6\App6\obj\Debug\ProjectArchitectures.txt
+D:\final_new\App6\App6\bin\Debug\App.xbf
+D:\final_new\App6\App6\bin\Debug\MainPage.xbf
+D:\final_new\App6\App6\bin\Debug\send.xbf
+D:\final_new\App6\App6\bin\Debug\strong.xbf
+D:\final_new\App6\App6\bin\Debug\weak.xbf
+D:\final_new\App6\App6\bin\Debug\App6.xr.xml
+D:\final_new\App6\App6\bin\Debug\App6.exe
+D:\final_new\App6\App6\bin\Debug\App6.pdb
+D:\final_new\App6\App6\bin\Debug\resources.pri
+D:\final_new\App6\App6\bin\Debug\AppxManifest.xml
+D:\final_new\App6\App6\bin\Debug\App6.build.appxrecipe
+D:\final_new\App6\App6\obj\Debug\App.g.i.cs
+D:\final_new\App6\App6\obj\Debug\App.g.cs
+D:\final_new\App6\App6\obj\Debug\MainPage.g.i.cs
+D:\final_new\App6\App6\obj\Debug\MainPage.g.cs
+D:\final_new\App6\App6\obj\Debug\send.g.i.cs
+D:\final_new\App6\App6\obj\Debug\send.g.cs
+D:\final_new\App6\App6\obj\Debug\strong.g.i.cs
+D:\final_new\App6\App6\obj\Debug\strong.g.cs
+D:\final_new\App6\App6\obj\Debug\weak.g.i.cs
+D:\final_new\App6\App6\obj\Debug\weak.g.cs
+D:\final_new\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+D:\final_new\App6\App6\obj\Debug\App.xaml
+D:\final_new\App6\App6\obj\Debug\MainPage.xaml
+D:\final_new\App6\App6\obj\Debug\send.xaml
+D:\final_new\App6\App6\obj\Debug\strong.xaml
+D:\final_new\App6\App6\obj\Debug\weak.xaml
+D:\final_new\App6\App6\obj\Debug\App.xbf
+D:\final_new\App6\App6\obj\Debug\MainPage.xbf
+D:\final_new\App6\App6\obj\Debug\send.xbf
+D:\final_new\App6\App6\obj\Debug\strong.xbf
+D:\final_new\App6\App6\obj\Debug\weak.xbf
+D:\final_new\App6\App6\obj\Debug\XamlSaveStateFile.xml
+D:\final_new\App6\App6\obj\Debug\App6.exe
+D:\final_new\App6\App6\obj\Debug\App6.pdb
+D:\final_new\App6\App6\obj\Debug\priconfig.xml
+D:\final_new\App6\App6\obj\Debug\priconfig.xml.intermediate
+D:\final_new\App6\App6\obj\Debug\layout.resfiles
+D:\final_new\App6\App6\obj\Debug\layout.resfiles.intermediate
+D:\final_new\App6\App6\obj\Debug\resources.resfiles
+D:\final_new\App6\App6\obj\Debug\resources.resfiles.intermediate
+D:\final_new\App6\App6\obj\Debug\pri.resfiles
+D:\final_new\App6\App6\obj\Debug\pri.resfiles.intermediate
+D:\final_new\App6\App6\obj\Debug\qualifiers.txt
+D:\final_new\App6\App6\obj\Debug\qualifiers.txt.intermediate
+D:\final_new\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\final_new\App6\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\final_new\App6\App6\bin\Debug\App.xbf
+G:\code.fun.do\final_new\App6\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\final_new\App6\App6\bin\Debug\send.xbf
+G:\code.fun.do\final_new\App6\App6\bin\Debug\strong.xbf
+G:\code.fun.do\final_new\App6\App6\bin\Debug\weak.xbf
+G:\code.fun.do\final_new\App6\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\final_new\App6\App6\bin\Debug\App6.exe
+G:\code.fun.do\final_new\App6\App6\bin\Debug\App6.pdb
+G:\code.fun.do\final_new\App6\App6\bin\Debug\resources.pri
+G:\code.fun.do\final_new\App6\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\final_new\App6\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\send.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App.xaml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\send.xaml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\strong.xaml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\weak.xaml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App.xbf
+G:\code.fun.do\final_new\App6\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\final_new\App6\App6\obj\Debug\send.xbf
+G:\code.fun.do\final_new\App6\App6\obj\Debug\strong.xbf
+G:\code.fun.do\final_new\App6\App6\obj\Debug\weak.xbf
+G:\code.fun.do\final_new\App6\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App6.exe
+G:\code.fun.do\final_new\App6\App6\obj\Debug\App6.pdb
+G:\code.fun.do\final_new\App6\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\final_new\App6\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\final_new\App6\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\final_new\App6\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\final_new\App6\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\final_new\App6\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\final_new\App6\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\final_new\App6\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\final_new\App6\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\final_new\App6\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\final_new\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\final_new\App6\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\App.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\send.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\strong.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\weak.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\App6.exe
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\App6.pdb
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\resources.pri
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\SafeSend - Copy\App6\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\send.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App.xaml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\send.xaml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\strong.xaml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\weak.xaml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\send.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\strong.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\weak.xbf
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App6.exe
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\App6.pdb
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\SafeSend - Copy\App6\App6\obj\Debug\ProjectArchitectures.txt
+D:\SafeSend\App6\App6\bin\Debug\App.xbf
+D:\SafeSend\App6\App6\bin\Debug\MainPage.xbf
+D:\SafeSend\App6\App6\bin\Debug\send.xbf
+D:\SafeSend\App6\App6\bin\Debug\strong.xbf
+D:\SafeSend\App6\App6\bin\Debug\weak.xbf
+D:\SafeSend\App6\App6\bin\Debug\App6.xr.xml
+D:\SafeSend\App6\App6\bin\Debug\App6.exe
+D:\SafeSend\App6\App6\bin\Debug\App6.pdb
+D:\SafeSend\App6\App6\bin\Debug\resources.pri
+D:\SafeSend\App6\App6\bin\Debug\AppxManifest.xml
+D:\SafeSend\App6\App6\bin\Debug\App6.build.appxrecipe
+D:\SafeSend\App6\App6\obj\Debug\App.g.i.cs
+D:\SafeSend\App6\App6\obj\Debug\App.g.cs
+D:\SafeSend\App6\App6\obj\Debug\MainPage.g.i.cs
+D:\SafeSend\App6\App6\obj\Debug\MainPage.g.cs
+D:\SafeSend\App6\App6\obj\Debug\send.g.i.cs
+D:\SafeSend\App6\App6\obj\Debug\send.g.cs
+D:\SafeSend\App6\App6\obj\Debug\strong.g.i.cs
+D:\SafeSend\App6\App6\obj\Debug\strong.g.cs
+D:\SafeSend\App6\App6\obj\Debug\weak.g.i.cs
+D:\SafeSend\App6\App6\obj\Debug\weak.g.cs
+D:\SafeSend\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+D:\SafeSend\App6\App6\obj\Debug\App.xaml
+D:\SafeSend\App6\App6\obj\Debug\MainPage.xaml
+D:\SafeSend\App6\App6\obj\Debug\send.xaml
+D:\SafeSend\App6\App6\obj\Debug\strong.xaml
+D:\SafeSend\App6\App6\obj\Debug\weak.xaml
+D:\SafeSend\App6\App6\obj\Debug\App.xbf
+D:\SafeSend\App6\App6\obj\Debug\MainPage.xbf
+D:\SafeSend\App6\App6\obj\Debug\send.xbf
+D:\SafeSend\App6\App6\obj\Debug\strong.xbf
+D:\SafeSend\App6\App6\obj\Debug\weak.xbf
+D:\SafeSend\App6\App6\obj\Debug\XamlSaveStateFile.xml
+D:\SafeSend\App6\App6\obj\Debug\App6.exe
+D:\SafeSend\App6\App6\obj\Debug\App6.pdb
+D:\SafeSend\App6\App6\obj\Debug\priconfig.xml
+D:\SafeSend\App6\App6\obj\Debug\priconfig.xml.intermediate
+D:\SafeSend\App6\App6\obj\Debug\layout.resfiles
+D:\SafeSend\App6\App6\obj\Debug\layout.resfiles.intermediate
+D:\SafeSend\App6\App6\obj\Debug\resources.resfiles
+D:\SafeSend\App6\App6\obj\Debug\resources.resfiles.intermediate
+D:\SafeSend\App6\App6\obj\Debug\pri.resfiles
+D:\SafeSend\App6\App6\obj\Debug\pri.resfiles.intermediate
+D:\SafeSend\App6\App6\obj\Debug\qualifiers.txt
+D:\SafeSend\App6\App6\obj\Debug\qualifiers.txt.intermediate
+D:\SafeSend\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\SafeSend\App6\App6\obj\Debug\ProjectArchitectures.txt
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\App.xbf
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\MainPage.xbf
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\send.xbf
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\strong.xbf
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\weak.xbf
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\App6.xr.xml
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\App6.exe
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\App6.pdb
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\resources.pri
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\AppxManifest.xml
+G:\code.fun.do\SafeSend\App6\App6\bin\Debug\App6.build.appxrecipe
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App.g.i.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\MainPage.g.i.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\MainPage.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\send.g.i.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\send.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\strong.g.i.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\strong.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\weak.g.i.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\weak.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\XamlTypeInfo.g.cs
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App.xaml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\MainPage.xaml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\send.xaml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App.xbf
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\MainPage.xbf
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\send.xbf
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\XamlSaveStateFile.xml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\strong.xaml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\weak.xaml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\strong.xbf
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\weak.xbf
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App6.exe
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\App6.pdb
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\priconfig.xml
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\priconfig.xml.intermediate
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\layout.resfiles
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\layout.resfiles.intermediate
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\resources.resfiles
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\resources.resfiles.intermediate
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\pri.resfiles
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\pri.resfiles.intermediate
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\qualifiers.txt
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\qualifiers.txt.intermediate
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\code.fun.do\SafeSend\App6\App6\obj\Debug\ProjectArchitectures.txt
